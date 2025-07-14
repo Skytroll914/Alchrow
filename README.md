@@ -1,6 +1,8 @@
 # Alchrow [WARNING: Game still has a bit of bug, do expect some runtime error]
 A simple game created using PyGames 
 
+![](https://github.com/Skytroll914/Alchrow/blob/main/ezgif.com-video-to-gif.gif)
+
 Instructions:
 - Please make sure the python game file and the 2 assets files are within the same directory
 - Open code in IDE and run from there if there are trouble launching it (immediately close upon executing it)
@@ -50,5 +52,3 @@ Instructions:
 - Stun mechanic (players temporarily disabled on hit)
 - Visual health and mana indicators
 - Sprite-based animation with elemental themes
-
-![](https://github.com/Skytroll914/Alchrow/blob/main/ezgif.com-video-to-gif.gif)
