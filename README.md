@@ -50,3 +50,5 @@ Instructions:
 - Stun mechanic (players temporarily disabled on hit)
 - Visual health and mana indicators
 - Sprite-based animation with elemental themes
+
+![](https://github.com/Skytroll914/Alchrow/blob/main/ezgif.com-video-to-gif.gif)
