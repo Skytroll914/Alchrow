@@ -1,0 +1,38 @@
+Game Idea (PvP)
+
+Arrows as projectiles
+3 rows in total
+fire rate must be controlled (2-3 per second)
+
+Illustration:
+
+|------------------------------------------------------------------------------|
+|                                -^                             ^-             |
+|------------------------------------------------------------------------------|
+|O   ->                                              >-                       O|
+|------------------------------------------------------------------------------|
+|                   -V                                               V-        |
+|------------------------------------------------------------------------------|
+
+O       ~ player
+< ^ > V ~ arrows (porjectiles)
+|       ~ Back Barrier
+
+Key: -> (right arrow shot by left player)
+     >- (right arrow shot by right player)
+
+
+Damage system:
+Hit player:
+-Stuns player for 0.5 sec, deal 5 damage
+-Hit Back Barrier, 10 damage
+
+How to win:
+Get enemy down to 0 or have a higher health when time is up
+
+Deathmatch:
+Projectile speed increases when hit 3 minute mark
+When draw - 1 hit would kill
+
+
+
